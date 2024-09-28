@@ -186,11 +186,11 @@ Using examples and visuals helps explain complex concepts more clearly in severa
 Different types of visuals can be particularly effective for conveying various kinds of technical information. Here are some common types of visuals and the types of information they work best for:
 
 Diagrams:
-Best For: Processes, systems, and relationships.
+- Best For: Processes, systems, and relationships.
 Example: Flowcharts can illustrate workflows or processes, while network diagrams can show connections between different components in a system.
 
 Charts:
-Best For: Data comparison and trends over time.
+- Best For: Data comparison and trends over time.
   Types:
   Bar Charts: Effective for comparing quantities across different categories (e.g., sales figures for different products).
   Line Charts: Ideal for showing trends over time (e.g., stock prices or website traffic).
@@ -203,6 +203,7 @@ Infographics:
 
 Best For: Summarizing complex information and presenting it in a visually appealing way.
 Example: Combining text, icons, and graphics to convey statistics, steps in a process, or comparisons in an engaging format.
+
 Tables:
 
 Best For: Detailed data and structured information.
